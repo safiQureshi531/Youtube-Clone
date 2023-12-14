@@ -1,2 +1,2 @@
-# Youtube-Clone
-This project was build to improve my front-end skills by only cloning the home page of YouTube and routing various pages to it.
+
+![Screenshot (26)](https://github.com/shreyaaansh/Youtube-clone/assets/85485959/78420055-c675-423c-9d41-d0db0f5a9cf4)
